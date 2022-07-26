@@ -24,10 +24,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: backgroundColor,
       ),
-      home: const LoginScreen(),
+      initialRoute: "/login",
+      //home: LoginScreen(),
       routes: {
         "/login": (context) => LoginScreen(),
-        "/home": (context) => home()
+        '/home': (context) => home()
       },
     );
   }

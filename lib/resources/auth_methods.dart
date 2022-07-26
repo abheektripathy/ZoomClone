@@ -32,7 +32,6 @@ class AuthMethods {
         }
         bool res = true;
       }
-      bool res = true;
     } on FirebaseAuthException catch (e) {
       bool res = false;
       showSnackBar(context, e.message!);
