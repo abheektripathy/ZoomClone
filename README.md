@@ -1,16 +1,9 @@
 # zoom_clone
 
-A new Flutter project.
+That unfinished Flutter project.
+Currently has a login screen and firebase auth,firstore integrated to authenticate the user and add new users to the database.
 
-## Getting Started
+## Project Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2022-07-26_at_13 58 39](https://user-images.githubusercontent.com/90976669/182966137-466844e3-484d-46ea-87ce-645f723b7253.png)
