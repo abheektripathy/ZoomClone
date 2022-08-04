@@ -1,5 +1,4 @@
 # ZoomClone
-
 That unfinished Flutter project.
 Currently has a login screen and firebase auth,firstore integrated to authenticate the user and add new users to the database.
 
